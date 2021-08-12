@@ -1,0 +1,9 @@
+<strings>
+    <string id="AppName">Horizontal Speedo</string>
+
+    <string id="prompt"> -</string>
+
+    <string id="menu_label_1">About Page</string>
+    <string id="menu_label_2">Vertical mode</string>
+    <string id="menu_label_3">Reset the Odometer</string>
+</strings>

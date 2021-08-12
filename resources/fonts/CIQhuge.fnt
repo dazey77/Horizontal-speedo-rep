@@ -1,0 +1,18 @@
+info face="Adobe Garamond Pro Bold" size=240 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=240 base=180 scaleW=260 scaleH=260 pages=5 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="CIQhuge_0.png"
+page id=1 file="CIQhuge_1.png"
+page id=2 file="CIQhuge_2.png"
+page id=3 file="CIQhuge_3.png"
+page id=4 file="CIQhuge_4.png"
+chars count=10
+char id=48   x=0     y=0     width=132   height=93    xoffset=11    yoffset=71    xadvance=153   page=2  chnl=15
+char id=49   x=0     y=191   width=130   height=68    xoffset=12    yoffset=82    xadvance=153   page=1  chnl=15
+char id=50   x=0     y=0     width=130   height=95    xoffset=12    yoffset=69    xadvance=154   page=1  chnl=15
+char id=51   x=0     y=0     width=141   height=91    xoffset=10    yoffset=76    xadvance=162   page=3  chnl=15
+char id=52   x=0     y=103   width=144   height=101   xoffset=10    yoffset=59    xadvance=164   page=0  chnl=15
+char id=53   x=0     y=0     width=146   height=86    xoffset=10    yoffset=78    xadvance=166   page=4  chnl=15
+char id=54   x=0     y=96    width=143   height=94    xoffset=10    yoffset=65    xadvance=162   page=1  chnl=15
+char id=55   x=0     y=0     width=140   height=102   xoffset=11    yoffset=72    xadvance=162   page=0  chnl=15
+char id=56   x=0     y=92    width=132   height=91    xoffset=11    yoffset=72    xadvance=154   page=3  chnl=15
+char id=57   x=0     y=94    width=141   height=92    xoffset=10    yoffset=76    xadvance=161   page=2  chnl=15

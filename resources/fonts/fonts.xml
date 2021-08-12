@@ -1,0 +1,4 @@
+<fonts>
+    <font id="id_font_speed" filename="CIQhuge.fnt" filter="0123456789" />
+    <font id="id_font_trip" filename="CIQmed.fnt" filter="0123456789.%TODkm" />
+</fonts>
